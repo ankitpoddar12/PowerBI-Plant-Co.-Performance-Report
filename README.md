@@ -53,6 +53,7 @@ Customer Engagement: Enhance customer engagement through interactive campaigns, 
 
 E-commerce Optimization:
 Optimize the e-commerce platform to ensure a seamless shopping experience. Implement features such as localized currency, payment options, and shipping methods.
+live dashboard link : [https://app.powerbi.com/view?r=eyJrIjoiYjk2MWZhOWMtNWFhMi00YTZkLWEzOTItYzRmM2FlYmI5YWZiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9]
 
 Preview
 ![Screenshot 2025-02-10 201727](https://github.com/user-attachments/assets/aa9c978b-7f1d-4982-962a-d5041be99505)
